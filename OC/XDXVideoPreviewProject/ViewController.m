@@ -25,6 +25,7 @@
     // Do any additional setup after loading the view.
     [self configureCamera];
     [self configurePreview];
+    AVCaptureVideoPreviewLayer
 }
 
 - (void)configurePreview {
